@@ -1,4 +1,1 @@
-# hello-world
-- Just another repository
-
-my name is tarig
+that is remove all text.
